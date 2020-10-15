@@ -1,0 +1,32 @@
+{
+"items": [
+{
+  "user id": 1,
+   "item": "shirt",
+   "cost": "Rs.500",
+   "brand": "Allen solly"
+},
+{  "userId": 1
+   "item": "Jeans"
+   "cost": "Rs.1000",
+   "brand": "Levi's"
+},
+{  "userId": 1
+   "item": "shoes"
+   "cost": "Rs.2000",
+   "brand": "Adidas"
+},
+{  "userId": 1
+   "item": "T-shirt"
+   "cost": "Rs.500",
+   "brand": "Roadster"
+},
+{  "userId": 1
+   "item": "Dress"
+   "cost": "Rs.3000",
+   "brand": "Hermes"
+},
+{  "userId": 1
+   "item": "shirt"
+   "cost": "Rs.500",
+   "brand": "Allen solly"
